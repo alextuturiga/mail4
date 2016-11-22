@@ -1,0 +1,18 @@
+{
+    "name": "ashleydw/mail",
+    "type": "library",
+    "description": "Laravel 4 MailServiceProvider that returns the result of send()",
+    "keywords": ["mail", "laravel", "php"],
+    "homepage": "https://github.com/ashleydw/mail",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ashleydw"
+        }
+    ],
+	"autoload": {
+		"psr-4": {
+			"Ashleydw\\Mail\\": "src/"
+		}
+	}
+}
